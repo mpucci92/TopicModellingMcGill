@@ -38,3 +38,6 @@ The following will:
 # Example of Bokeh Plot Topic Modelling Clusters
 ![Bokehplot](https://user-images.githubusercontent.com/42786192/124517259-88dbfb00-ddb1-11eb-8194-4b2cf3405633.png)
 
+![tableBokeh](https://user-images.githubusercontent.com/42786192/125131992-aa025b80-e0d1-11eb-8c5d-e798cb87bcb9.png)
+
+
